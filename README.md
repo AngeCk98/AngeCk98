@@ -1,3 +1,4 @@
+![logo](https://github.com/AngeCk98/AngeCk98/blob/main/Untitled%20design.png)
 <h1 align="center">Hi 🦾, I'm CHRISVY KOUBANGOU</h1>
 <h3 align="center">Software DEV</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
