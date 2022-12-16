@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Angekoubangou@gmail.com**
 
-- 😎 I’m interested in **Frontend Dev**
+- 😎 I’m interested in **Frontend Dev** and Backend Dev
 
 - 🌱 I’m currently learning **ALX full stack software engineering**
 
